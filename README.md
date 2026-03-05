@@ -18,7 +18,7 @@
 
 ## `> whoami`
 
-Cybersecurity professional and senior at the **University of Arizona** — BAS in Cyber Operations, Minor in CS (GPA: 3.5, Dean's List). Currently a **Cybersecurity Research Assistant** building LLM vulnerability detection pipelines and a **Cybersecurity Fellow** at Handshake AI auditing AI security.
+Cybersecurity professional and senior at the **University of Arizona** - BAS in Cyber Operations, Minor in CS (GPA: 3.5, Dean's List). Currently a **Cybersecurity Research Assistant** building LLM vulnerability detection pipelines and a **Cybersecurity Fellow** at Handshake AI auditing AI security.
 
 Previously a **Junior SOC Analyst** (99% incident resolution rate, 100+ weekly alerts) and **Cyber Intelligence Intern** (25+ adversary TTPs identified, 40+ hours/month automated via Python).
 
@@ -139,7 +139,7 @@ Previously a **Junior SOC Analyst** (99% incident resolution rate, 100+ weekly a
 
 <div align="center">
 
-**Currently open to SOC Analyst, Threat Intelligence, and Security Engineer roles — graduating May 2026**
+**Currently open to SOC Analyst, Threat Intelligence, and Security Engineer roles - graduating May 2026**
 
 </div>
 
