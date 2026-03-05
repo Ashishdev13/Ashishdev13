@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Building+security+tools+%7C+Breaking+things+ethically+%7C+Defending+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=30&lines=Building+security+tools+%7C+Breaking+things+ethically+%7C+Defending+systems" alt="Typing SVG" />
 
 <br/><br/>
 
