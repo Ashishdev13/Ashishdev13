@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=30&lines=Building+security+tools+%7C+Breaking+things+ethically+%7C+Defending+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=520&height=25&lines=Building+security+tools;Breaking+things+ethically;Defending+systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -74,19 +74,19 @@ Previously a **Junior SOC Analyst** (99% incident resolution rate, 100+ weekly a
 <div align="center">
 
 <a href="https://github.com/Ashishdev13/OSINT-Reconnaissance-Automation-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashishdev13&repo=OSINT-Reconnaissance-Automation-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ashishdev13&repo=OSINT-Reconnaissance-Automation-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 </a>
 &nbsp;
 <a href="https://github.com/Ashishdev13/web-vulnerability-scanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashishdev13&repo=web-vulnerability-scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ashishdev13&repo=web-vulnerability-scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/Ashishdev13/Password-Strength-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashishdev13&repo=Password-Strength-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ashishdev13&repo=Password-Strength-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 </a>
 &nbsp;
 <a href="https://github.com/Ashishdev13/Decoy-Honeypot-Deployment-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashishdev13&repo=Decoy-Honeypot-Deployment-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ashishdev13&repo=Decoy-Honeypot-Deployment-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -97,9 +97,9 @@ Previously a **Junior SOC Analyst** (99% incident resolution rate, 100+ weekly a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashishdev13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashishdev13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishdev13&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashishdev13&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" />
 
 <br/>
 
