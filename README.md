@@ -117,7 +117,7 @@ Previously a **Junior SOC Analyst** (99% incident resolution rate, 100+ weekly a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashishdev13&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" />
+<img src="https://github-trophies.vercel.app/?username=Ashishdev13&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" />
 
 </div>
 
